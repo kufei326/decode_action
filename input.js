@@ -3,7 +3,7 @@
 by、TY 
 TG @nyqty 自己写 h5st 支持 3.0 3.1 400 4.1
 
-来源于 TY 大佬，在此引用，有问题联系删除
+来源于 TY 大佬，在此引用，有问题联系删
 
 */
 const CryptoJS = require("crypto-js");
