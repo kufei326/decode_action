@@ -1,4 +1,4 @@
-//Tue Dec 03 2024 05:48:15 GMT+0000 (Coordinated Universal Time)
+//Fri Dec 13 2024 07:14:01 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 var ua = $request.headers["User-Agent"] || $request.headers["user-agent"],
